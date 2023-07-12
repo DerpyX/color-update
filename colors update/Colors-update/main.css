@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 40, 255);
+    color: black;
+}
+
+nav {
+    width: 200px;
+    float: right;
+    padding: 10px;
+    line-height: 60px;
+    height: 600px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+    
+}
+#here { 
+    margin-right:200px;
+
+}
+header {
+    text-align:center;
+}
